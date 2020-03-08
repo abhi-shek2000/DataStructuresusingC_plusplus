@@ -22,3 +22,4 @@ queue, doubly ended queue, priority queue ....
 * Linked Lists
     * *Singly Linked List*
     * *Doubly Linked List*
+    * *Circular Linked List*
