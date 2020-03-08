@@ -27,6 +27,8 @@ queue, doubly ended queue, priority queue ....
     * *Basic Stack*
     * *Applications*
          * *Parenthesis Check*
+         * *String Reverse*
+         * *Infix to Post-Fix conversion*
     
 ---
 ## Author:
