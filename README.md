@@ -1,6 +1,6 @@
-<span style="color:green"> # DataStructuresusingC_plusplus </span>
+ # DataStructuresusingC_plusplus 
 
-> ## Description
+> ## &#x1F534; Description
 
 *Hello geeks this is a small repository containing programs of data structures implemented in C++
 I'm  new to github so understand if any mistakes are made by me and also don't forget to star my work :p*
