@@ -24,6 +24,7 @@ class STACK{
             top = NULL;
         }
         
+ 
         void push(T d){
             struct NODE *newNODE = new NODE;
             newNODE->data = d;
