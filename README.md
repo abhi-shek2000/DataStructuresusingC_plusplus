@@ -23,3 +23,8 @@ queue, doubly ended queue, priority queue ....
     * *Singly Linked List*
     * *Doubly Linked List*
     * *Circular Linked List*
+    
+    
+---
+## Author:
+     Abhishek Mule
