@@ -23,7 +23,10 @@ queue, doubly ended queue, priority queue ....
     * *Singly Linked List*
     * *Doubly Linked List*
     * *Circular Linked List*
-    
+* Stack
+    * *Basic Stack*
+    * *Applications*
+         * *Parenthesis Check*
     
 ---
 ## Author:
