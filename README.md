@@ -29,6 +29,9 @@ queue, doubly ended queue, priority queue ....
          * *Parenthesis Check*
          * *String Reverse*
          * *Infix to Post-Fix conversion*
+* Queues
+   * *Normal Queue*
+   * *Priority Queue* (Example based on - Hospital Patient Priority order)
     
 ---
 ## Author:
