@@ -1,6 +1,6 @@
 /* 
  * File:   StringReverse.cpp
- * Author: Lenovo
+ * Author: Abhishek Mule
  *
  * Created on 8 March, 2020, 10:47 PM
  */
