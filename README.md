@@ -32,6 +32,8 @@ queue, doubly ended queue, priority queue ....
 * Queues
    * *Normal Queue*
    * *Priority Queue* (Example based on - Hospital Patient Priority order)
+* Binary Tree
+   * *Simple Binary Tree*(Inserting & All types of traversals)
     
 ---
 ## Author:
